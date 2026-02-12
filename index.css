@@ -1,3 +1,4 @@
+
 body{
     margin: 0;
     font-family: 'Poppins', sans-serif;
@@ -251,7 +252,6 @@ div .b1:hover{
 
 .skills{
     display: flex;
-    /* grid-template-columns: repeat(auto-fit,minmax(180px,1fr)); */
       background-color: white;
       border: 5px solid rgb(91, 91, 241);
       border-radius: 25px;
